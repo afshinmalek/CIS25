@@ -1,0 +1,4 @@
+1001 Afshin Malek 39 Male Flu
+1002 Amin 44 Male broken leg
+1003 mary jones 30 Female broken hand
+1004 ali hamidizadeh 38 Male brken heart
