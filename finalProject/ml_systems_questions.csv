@@ -1,0 +1,8 @@
+ID,Topic,Prompt,Answer,Streak
+401,System Design,What is the purpose of a Load Balancer?,To distribute incoming network traffic efficiently across multiple servers to prevent crashing.,1
+402,System Design,What is the difference between vertical and horizontal scaling?,Vertical scaling adds more power to an existing machine while horizontal scaling adds more machines to the network.,0
+403,System Design,What is a distributed database?,A database that consists of multiple files located in different sites communicating over a network.,1
+404,System Design,Explain the master-slave database architecture.,The master node handles all write operations while slave nodes handle read operations to balance the load.,0
+501,Machine Learning,What is overfitting in Machine Learning?,When a model learns the training data too well including its noise resulting in poor performance on unseen data.,0
+502,Machine Learning,What is the difference between supervised and unsupervised learning?,Supervised learning uses labeled training data while unsupervised learning finds patterns in unlabeled data.,0
+503,Machine Learning,What is the purpose of a loss function?,To measure how far the model's predicted output is from the actual target value so the model can adjust its weights.,0

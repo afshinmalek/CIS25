@@ -1,0 +1,8 @@
+ID,Topic,Prompt,Answer,Streak
+201,Data Structures,What is the time complexity of searching in a balanced Binary Search Tree?,O(log n),2
+202,Data Structures,What is the primary difference between a stack and a queue?,A stack is Last-In-First-Out (LIFO) while a queue is First-In-First-Out (FIFO).,2
+203,Data Structures,What is a memory leak in C++?,When a program dynamically allocates memory using new but fails to deallocate it using delete.,0
+204,Data Structures,How does a Hash Table handle collisions?,Using techniques like chaining (linked lists) or open addressing (probing).,1
+301,Algorithms,Explain how Binary Search works.,It repeatedly divides a sorted array in half by comparing the target value to the middle element.,0
+302,Algorithms,What is the worst-case time complexity of QuickSort?,O(n squared),0
+303,Algorithms,What is the difference between Depth-First Search (DFS) and Breadth-First Search (BFS)?,DFS uses a Stack to explore as far as possible along each branch before backtracking while BFS uses a Queue to explore neighbor nodes first.,0
