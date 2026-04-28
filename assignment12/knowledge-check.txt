@@ -1,0 +1,20 @@
+What is a pointer, and how did you use it in your program?
+
+A pointer is a variable that stores the memory address of another variable. In this program,
+ a pointer was used to store the address of a Patient struct variable and then access its data
+ members using the arrow (->) operator. 
+
+
+
+What does the & operator do in your program?
+
+The & (address-of) operator retrieves the memory address of a regular variable 
+so that it can be stored in a pointer.  
+
+
+
+Write the output of your program.
+
+ID:101
+Name:John
+Age:40
